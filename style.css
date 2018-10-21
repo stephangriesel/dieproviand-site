@@ -36,7 +36,7 @@ body {
 
 .btn:hover i{
     transform: scale(1.4);
-    color:#8b2424;
+    color:#5f4848;
 }
 
 /*.btn::before{
